@@ -29,4 +29,5 @@ public class Empleado {
 	public int getSueldo() {
 		return sueldo;
 	}
+	//Escribo este comentario para poder hacer el segundo commit
 }

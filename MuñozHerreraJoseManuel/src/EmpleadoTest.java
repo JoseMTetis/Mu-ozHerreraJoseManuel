@@ -67,5 +67,6 @@ Empleado emp3 = new Empleado("Pepe",4000);
 		assertTrue(resultadoObtenido, "El sueldo de este trabajador si es alto");
 		
 	}
-
+ 
+	
 }
